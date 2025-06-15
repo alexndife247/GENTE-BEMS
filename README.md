@@ -1,0 +1,1 @@
+This project describes the development of a building energy management system for the optimization of local energy communities energy resources, and demonstrations tests conducted at HSB Living Lab, Chalmers
